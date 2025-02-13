@@ -62,8 +62,8 @@ MonoBehaviour:
   - Transform
   - RectTransform
   componentLimited: 0
-  componentSize: 16
-  componentSpacing: 2
+  componentSize: 14
+  componentSpacing: 0
   displayTag: 1
   tagAlignment: 0
   displayLayer: 1
@@ -74,36 +74,6 @@ MonoBehaviour:
   separatorStartWith: ->
   separatorDefaultTag: Untagged
   useInstantBackground: 1
-  instantBackgroundColors:
-  - active: 1
-    useStartWith: 0
-    useTag: 1
-    useLayer: 0
-    startWith: 
-    tag: Controller
-    layer:
-      serializedVersion: 2
-      m_Bits: 4294967295
-    color: {r: 1, g: 0.3150943, b: 0.90114754, a: 0.2}
-  - active: 1
-    useStartWith: 0
-    useTag: 0
-    useLayer: 1
-    startWith: 
-    tag: 
-    layer:
-      serializedVersion: 2
-      m_Bits: 32
-    color: {r: 0, g: 1, b: 0.92499995, a: 0.050980393}
-  - active: 1
-    useStartWith: 0
-    useTag: 1
-    useLayer: 0
-    startWith: 
-    tag: Zenject
-    layer:
-      serializedVersion: 2
-      m_Bits: 0
-    color: {r: 0.123142004, g: 1, b: 0, a: 0.050980393}
+  instantBackgroundColors: []
   onlyDisplayWhileMouseEnter: 0
   contentDisplay: 1
