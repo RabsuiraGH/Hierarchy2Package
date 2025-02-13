@@ -1,8 +1,8 @@
 {
-  "name": "com.yourname.mypackage",
+  "name": "com.rabsuira.hierarchy2",
   "version": "1.0.0",
-  "displayName": "My Package",
-  "description": "Description",
+  "displayName": "Hierarchy 2",
+  "description": "Better unity hierarchy",
   "unity": "2020.3",
   "dependencies": {}
 }
